@@ -1,4 +1,4 @@
-package com.journaldev.design.chainofresponsibility;
+package com.swep.design.chainofresponsibility;
  
 public interface DispenseChain {
  
